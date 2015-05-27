@@ -1,0 +1,25 @@
+// Place all the styles related to the Welcomes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import 'bootstrap';
+
+#home{
+  background-color: black;
+}
+
+h2{
+  color: yellow;
+  font-family: 'Cinzel', serif;
+}
+
+.nav-tabs {
+  font-family: 'Cinzel', serif;
+  color: yellow;
+  background-color: black;
+}
+
+.tab-pane{
+
+  font-family: 'Cinzel', serif;
+
+}
